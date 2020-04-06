@@ -15,6 +15,13 @@ There are two versions of the eyeStand, depending on the manufacturing abilities
 
 The design has been created after considering the best height and dimensions to include most smartphones and standard A4 sheets. Feel free to customize, if you don't feel it fits for you.
 
+--------------------------------------------------------
+
+This project was created as part of LauzHack 2020 (at EPFL, Lausanne).
+
+Here is the [Devpost link](https://devpost.com/software/eyestand) of the project.
+
+
 
 
  
