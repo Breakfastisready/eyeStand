@@ -13,7 +13,7 @@ There are two versions of the eyeStand, depending on the manufacturing abilities
 
 <img src="homeview_used.jpg" width="300" align="middle"/>
 
-**eyePhone.scad** is an OpenSCAD design of a 3d printable version. The **eyeStand.stl** file is simply the exported file from OpenSCAD, ready to be given to a 3D printer.
+**eyePhone.scad** is an [OpenSCAD](https://www.openscad.org/) design of a 3d printable version. The **eyeStand.stl** file is simply the exported file from OpenSCAD, ready to be given to a 3D printer.
 
 <img src="persp.png" width="500" align="middle"/>
 
